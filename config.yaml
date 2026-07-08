@@ -1,0 +1,8 @@
+# Example filter rules for Module_2.55 EPG normalization engine
+filters:
+  whitelist:
+    - "News"
+    - "Sports"
+  blacklist:
+    - "Trailer"
+    - "Advertisement"

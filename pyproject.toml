@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "module2_55"
+version = "0.1.0"
+description = "EPG normalization engine (Module 2.55)"
+authors = [
+  { name = "bilbywilby" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+
+[project.urls]
+"Source" = "https://github.com/bilbywilby/Module_2.55"

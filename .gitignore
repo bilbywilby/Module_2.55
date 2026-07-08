@@ -1,0 +1,28 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env*
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+*.log
+.idea/
+.vscode/
+coverage/
+.mypy_cache/
+
+# MacOS
+.DS_Store
+
+# Python
+*.py[cod]
+*$py.class
+
+# VSCode
+.vscode/
+
+# Wheels
+*.whl
